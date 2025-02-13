@@ -21,7 +21,7 @@
 
 10: Navigate through a Navigation Bar.
 
-# task_manager_project- ScreenShots
+# Task Manager Project- ScreenShots:
 
 ![Image](https://github.com/user-attachments/assets/86fe3da2-3539-41c2-b9f4-99434eb811d3)
 
