@@ -1,17 +1,40 @@
+# Flutter Project- Task Manager App Using REST API
+## The App Can-
+
+1: Set up Email and Password using REST API.
+
+2: Authorise and Authenticate the user by saving access token.
+
+3: Send verification pin to the specific email address.
+
+4: Edit and Update Specific Task details to the DataBase Using REST API.
+
+5: Delete Task From the DataBase Using REST API.
+
+6: Form Validation on User Interaction.
+
+7: Show User information on appbar and indicate Loading while processing any data.
+
+8: Automatic Upadte and Create Count List of the task after Deletion or adding a task.
+
+9: Update the Full Task List On Refresh.
+
+10: Navigate through a Navigation Bar.
+
 # task_manager_project- ScreenShots
 
-![Screenshot 2024-07-08 231911](https://github.com/MRIDULrk/Assignment_OstadPlatform_TaskManager_Project/assets/100429674/68b39fd0-45b3-4eb4-951d-418bed2909eb)
+![Image](https://github.com/user-attachments/assets/86fe3da2-3539-41c2-b9f4-99434eb811d3)
 
-![2](https://github.com/MRIDULrk/Assignment_OstadPlatform_TaskManager_Project/assets/100429674/43d5b854-9486-4e03-90f3-99d0505896ec)
+![Image](https://github.com/user-attachments/assets/e7e6b21e-2848-43f2-9306-3ad782d6a456)
 
-![3](https://github.com/MRIDULrk/Assignment_OstadPlatform_TaskManager_Project/assets/100429674/4c799890-e2dc-4bfb-aea0-9ff791a055ff)
+![Image](https://github.com/user-attachments/assets/f95b0041-303c-4e5d-8ecc-cd43fb3ee295)
 
-![4](https://github.com/MRIDULrk/Assignment_OstadPlatform_TaskManager_Project/assets/100429674/f7251084-c450-40f5-81ff-3e878b09ce60)
+![Image](https://github.com/user-attachments/assets/f35b88cb-bd8b-4d1e-8941-807e7bb59da4)
 
-![5](https://github.com/MRIDULrk/Assignment_OstadPlatform_TaskManager_Project/assets/100429674/702f5e6e-f852-4377-8387-7f258b01038e)
+![Image](https://github.com/user-attachments/assets/97548bc6-cb73-460c-bc27-f92dbdd3347c)
 
-![6](https://github.com/MRIDULrk/Assignment_OstadPlatform_TaskManager_Project/assets/100429674/4fea6831-96c6-4ebd-8e75-3bb74f0686ac)
+![Image](https://github.com/user-attachments/assets/0094991c-89c0-476e-ba48-0d7897ff7c1c)
 
-![7](https://github.com/MRIDULrk/Assignment_OstadPlatform_TaskManager_Project/assets/100429674/f6a756da-7d60-495b-99a6-86ef75d48556)
+![Image](https://github.com/user-attachments/assets/97ad2926-689f-4eb5-a703-839fc2b695a0)
 
 
