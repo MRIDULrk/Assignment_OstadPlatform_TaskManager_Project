@@ -1,4 +1,4 @@
-# Flutter Project- Task Manager App Using REST API
+# Task Manager App Using REST API
 ## The App Can-
 
 1: Set up Email and Password using REST API.
